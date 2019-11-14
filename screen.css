@@ -1,0 +1,9 @@
+#days-of-the-week,
+#date-picker,
+#user-input {
+  display: none
+}
+
+.show {
+  display: block!important;
+}
